@@ -6,6 +6,6 @@
  */
  
 /// Configured libraries
-#cmakedefine HAVE_VTK
+//#cmakedefine HAVE_VTK
 
 #endif //SDFGEN_CONFIG_H
