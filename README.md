@@ -27,10 +27,10 @@ SOFTWARE.
 使用方法：
 1.windows系统 进入到bin目录下 SDFGen.exe
 
-2.cmd输入命令  SDFGen <filename> <dx> <padding> 
+2.cmd输入命令  SDFGen \<filename\> \<dx\> \<padding\> 
 
 如:            SDGGen daba.obj  0.1 4 
 
-<dx>参数越小精度越高  <dx>越高精度越模糊 文件大小和转换速度与dx参数设置的值有关
+\<dx\>参数越小精度越高  \<dx\>越高精度越模糊 文件大小和转换速度与dx参数设置的值有关
 
-3.<padding> 通常不用改版 对于所有模型该值设置为4左右 
+3.\<padding\> 通常不用改版 对于所有模型该值设置为4左右 
